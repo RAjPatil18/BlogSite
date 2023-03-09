@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi deleniti mollitia quia nostrum obcaecati. Quisquam nesciunt ut totam iure consequatur, numquam nam voluptas beatae magnam. Iste nam ipsum voluptate repellat maiores, quas dolorum ex?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi deleniti mollitia quia nostrum obcaecati. Quisquam nesciunt ut totam iure consequatur, numquam nam voluptas beatae magnam. Iste nam ipsum voluptate repellat maiores, quas dolorum ex?",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
